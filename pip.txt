@@ -1,0 +1,3 @@
+download.pytorch.org
+pypi.org
+repo.anaconda.com
